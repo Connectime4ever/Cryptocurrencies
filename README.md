@@ -2,7 +2,7 @@
 
 ## Overview of the project
 #### The purpose of the repository is to group cryptocurrenies to create a classification system to be used for an investment portfolio. 
-#### A clustering algorithm is going to be apply and the data must be processed to fit the unsupervised machine learning model. 
+#### A clustering algorithm is going to be applied and the data must be processed to fit the unsupervised machine learning model. 
 #### Additionaly, some visualizations are requested for presentation purposes. 
 
 ## Results 
