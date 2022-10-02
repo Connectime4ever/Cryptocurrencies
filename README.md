@@ -4,9 +4,14 @@
 #### The purpose of the repository is to group cryptocurrenies to create a classification system to be used for an investment portfolio. 
 #### A clustering algorithm is going to be applied and the data must be processed to fit the unsupervised machine learning model. 
 #### Additionaly, some visualizations are requested for presentation purposes. 
+#### Steps to be followed, as requested:
++ Preprocessing the data for PCA 
++ Reducing data dimensions using PCA
++ Clustering crytocurrencies using K-means
++ Visulizing crytocurrencies results
+
 
 ## Results 
-
 
 
 ![d11](https://github.com/Connectime4ever/Cryptocurrencies/blob/main/d11.png)
